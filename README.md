@@ -12,3 +12,7 @@
 ![SCSS](./images/icons/scss.png "SCSS")
 ![JS](./images/icons/javascript.png "Javascript")
 ![PPP](./images/icons/php.png "PHP")
+
+# Software I use
+![Visual Studio Code](./images/icons/visualstudio.png "Visual Studio Code")
+![Intellij IDEA](./images/icons/intellijidea.png "Intellij IDEA")
