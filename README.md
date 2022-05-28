@@ -6,6 +6,7 @@
 # Programming languages I use
 
 ![JAVA](./images/icons/java.png "Java")
+![CSharp](./images/icons/csharp.png "CSharp")
 ![HTML5](./images/icons/html5.png "HTML5")
 ![CSS3](./images/icons/css3.png "CSS3")
 ![SCSS](./images/icons/scss.png "SCSS")
