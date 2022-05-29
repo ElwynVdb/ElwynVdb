@@ -1,7 +1,6 @@
 # My github stats
-
-![Elwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElwynVdb&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElwynVdb&theme=radical)
+![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 # Programming languages I use
 
