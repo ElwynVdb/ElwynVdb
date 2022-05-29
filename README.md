@@ -11,6 +11,7 @@
 ![CSS3](./images/icons/css3.png "CSS3")
 ![SCSS](./images/icons/scss.png "SCSS")
 ![JS](./images/icons/javascript.png "Javascript")
+![TS](./images/icons/typescript.png "Typescript")
 ![PHP](./images/icons/php.png "PHP")
 ![MySQL](./images/icons/mysql.png "MySQL")
 
