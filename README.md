@@ -1,8 +1,6 @@
-# My github stats
-
-![Elwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElwynVdb&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElwynVdb&theme=radical)
-
+# My github statistics
+![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 # Programming languages I use
 
 ![JAVA](./images/icons/java.png "Java")
@@ -16,7 +14,7 @@
 ![MySQL](./images/icons/mysql.png "MySQL")
 
 # Software I use
-![Visual Studio Code](./images/icons/visualstudio.png "Visual Studio Code")
+![Visual Studio Code](./images/icons/visualstudio.png "Visual Studio")
 ![Intellij IDEA](./images/icons/intellijidea.png "Intellij IDEA") 
 ![Intellij Rider](./images/icons/intellijrider.png "Intellij Rider") 
 
