@@ -21,3 +21,4 @@
 
 # Certificates
 <a href="https://verify.w3schools.com/1MPJTMKGM7" target="_blank">![Certified Typescript Developer - W3Schools](./images/icons/certificate.png "Certified Typescript Developer - W3Schools")</a>
+<a href="https://verify.w3schools.com/1NBWHJCH8B" target="_blank">![Certified C# Developer - W3Schools](./images/icons/certificate.png "Certified C# Developer - W3Schools")</a>
