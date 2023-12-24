@@ -1,6 +1,9 @@
 # My github statistics
-![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/<.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/<.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ElwynVdb/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 # Programming / Scripting languages I use
 
 ![JAVA](./images/icons/java.png "Java")
