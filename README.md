@@ -18,8 +18,8 @@
 ![MySQL](./images/icons/mysql.png "MySQL")
 
 # Software I use
-![PHPStorm](./images/icons/phpstorm.png "PHPStorm")
 ![Visual Studio (Code)](./images/icons/visualstudio.png "Visual Studio (Code)")
+![PHPStorm](./images/icons/phpstorm.png "PHPStorm")
 ![Intellij IDEA](./images/icons/intellijidea.png "Intellij IDEA") 
 ![Intellij Rider](./images/icons/intellijrider.png "Intellij Rider") 
 
