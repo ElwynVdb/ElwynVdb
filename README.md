@@ -16,7 +16,7 @@
 ![CSS3](./images/icons/css3.png "CSS3")
 ![SCSS](./images/icons/scss.png "SCSS")
 ![MySQL](./images/icons/mysql.png "MySQL")
-![PostgreSQL](./images/icons/postgres.png "PostgreSQL")
+![PostgreSQL](./images/icons/postgres.svg "PostgreSQL")
 
 # Software I use
 ![PHPStorm](./images/icons/phpstorm.png "PHPStorm")
