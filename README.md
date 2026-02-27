@@ -16,12 +16,12 @@
 ![CSS3](./images/icons/css3.png "CSS3")
 ![SCSS](./images/icons/scss.png "SCSS")
 ![MySQL](./images/icons/mysql.png "MySQL")
+![PostgreSQL](./images/icons/postgres.png "PostgreSQL")
 
 # Software I use
 ![PHPStorm](./images/icons/phpstorm.png "PHPStorm")
 ![Visual Studio (Code)](./images/icons/visualstudio.png "Visual Studio (Code)")
 ![Intellij IDEA](./images/icons/intellijidea.png "Intellij IDEA") 
-![Intellij Rider](./images/icons/intellijrider.png "Intellij Rider") 
 
 # Certificates
 <a href="https://verify.w3schools.com/1MPJTMKGM7" target="_blank">![Certified Typescript Developer - W3Schools](./images/icons/certificate.png "Certified Typescript Developer - W3Schools")</a>
